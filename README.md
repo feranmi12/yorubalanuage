@@ -1,2 +1,2 @@
-# yorubalanuage
+# yorubalanguage
 My Yoruba Api
